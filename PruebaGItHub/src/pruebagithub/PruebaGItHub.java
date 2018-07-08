@@ -12,7 +12,9 @@ public class PruebaGItHub {
     
     
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null,"Prueba Exitosa");
+        JOptionPane.showMessageDialog(null," Primera Prueba Exitosa");
+        
+        JOptionPane.showMessageDialog(null, "Segunda Prueba Exitosa");
     }
     
 }
